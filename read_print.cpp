@@ -2,7 +2,7 @@
 
 using namespace std; // Allow cout and cin
 
-void readPrintValues()
+void main()
 {
 	int a, b;
 	string c;
