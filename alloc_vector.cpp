@@ -1,5 +1,5 @@
 #include <iostream>
-#include <new>
+#include <new> // Used to allocate memory
 
 using namespace std;
 
