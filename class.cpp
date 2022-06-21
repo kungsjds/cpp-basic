@@ -29,4 +29,6 @@ int main()
 	cout << "\nLevel: " << player1.level;
 	cout << "\nPower: " << player1.power;
 
+	return 0;
+
 }
