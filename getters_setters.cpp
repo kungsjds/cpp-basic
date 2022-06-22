@@ -12,6 +12,7 @@ private:
 	// Public methods (or attributes too). Global access.
 public:
 
+	// Define contructor
 	Enemy() {
 
 		this->setName("Warlock");
