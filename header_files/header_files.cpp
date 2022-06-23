@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "player.h"
+#include "player.h" // Sets player header to access its methods/attributes. (OOP) Object-Oriented Programing
 
 int main() {
 
